@@ -1,0 +1,28 @@
+C:\Users\Bart\Pictures\SegundoProjeto\obj\Debug\net9.0\SegundoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\Pictures\SegundoProjeto\obj\Debug\net9.0\SegundoProjeto.AssemblyInfoInputs.cache
+C:\Users\Bart\Pictures\SegundoProjeto\obj\Debug\net9.0\SegundoProjeto.AssemblyInfo.cs
+C:\Users\Bart\Pictures\SegundoProjeto\obj\Debug\net9.0\SegundoProjeto.csproj.CoreCompileInputs.cache
+C:\Users\Bart\Pictures\SegundoProjeto\bin\Debug\net9.0\SegundoProjeto.exe
+C:\Users\Bart\Pictures\SegundoProjeto\bin\Debug\net9.0\SegundoProjeto.deps.json
+C:\Users\Bart\Pictures\SegundoProjeto\bin\Debug\net9.0\SegundoProjeto.runtimeconfig.json
+C:\Users\Bart\Pictures\SegundoProjeto\bin\Debug\net9.0\SegundoProjeto.dll
+C:\Users\Bart\Pictures\SegundoProjeto\bin\Debug\net9.0\SegundoProjeto.pdb
+C:\Users\Bart\Pictures\SegundoProjeto\obj\Debug\net9.0\SegundoProjeto.dll
+C:\Users\Bart\Pictures\SegundoProjeto\obj\Debug\net9.0\refint\SegundoProjeto.dll
+C:\Users\Bart\Pictures\SegundoProjeto\obj\Debug\net9.0\SegundoProjeto.pdb
+C:\Users\Bart\Pictures\SegundoProjeto\obj\Debug\net9.0\SegundoProjeto.genruntimeconfig.cache
+C:\Users\Bart\Pictures\SegundoProjeto\obj\Debug\net9.0\ref\SegundoProjeto.dll
+C:\Users\Bart\Pictures\Visual Studio\Curso\SegundoProjeto\bin\Debug\net9.0\SegundoProjeto.exe
+C:\Users\Bart\Pictures\Visual Studio\Curso\SegundoProjeto\bin\Debug\net9.0\SegundoProjeto.deps.json
+C:\Users\Bart\Pictures\Visual Studio\Curso\SegundoProjeto\bin\Debug\net9.0\SegundoProjeto.runtimeconfig.json
+C:\Users\Bart\Pictures\Visual Studio\Curso\SegundoProjeto\bin\Debug\net9.0\SegundoProjeto.dll
+C:\Users\Bart\Pictures\Visual Studio\Curso\SegundoProjeto\bin\Debug\net9.0\SegundoProjeto.pdb
+C:\Users\Bart\Pictures\Visual Studio\Curso\SegundoProjeto\obj\Debug\net9.0\SegundoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\Pictures\Visual Studio\Curso\SegundoProjeto\obj\Debug\net9.0\SegundoProjeto.AssemblyInfoInputs.cache
+C:\Users\Bart\Pictures\Visual Studio\Curso\SegundoProjeto\obj\Debug\net9.0\SegundoProjeto.AssemblyInfo.cs
+C:\Users\Bart\Pictures\Visual Studio\Curso\SegundoProjeto\obj\Debug\net9.0\SegundoProjeto.csproj.CoreCompileInputs.cache
+C:\Users\Bart\Pictures\Visual Studio\Curso\SegundoProjeto\obj\Debug\net9.0\SegundoProjeto.dll
+C:\Users\Bart\Pictures\Visual Studio\Curso\SegundoProjeto\obj\Debug\net9.0\refint\SegundoProjeto.dll
+C:\Users\Bart\Pictures\Visual Studio\Curso\SegundoProjeto\obj\Debug\net9.0\SegundoProjeto.pdb
+C:\Users\Bart\Pictures\Visual Studio\Curso\SegundoProjeto\obj\Debug\net9.0\SegundoProjeto.genruntimeconfig.cache
+C:\Users\Bart\Pictures\Visual Studio\Curso\SegundoProjeto\obj\Debug\net9.0\ref\SegundoProjeto.dll

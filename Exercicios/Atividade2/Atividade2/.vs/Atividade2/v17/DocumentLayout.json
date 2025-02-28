@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bart\\Pictures\\Atividades\\Atividade2\\Atividade2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5BFD87-F9A8-464A-A15E-E327C3793B5A}|Atividade2.csproj|c:\\users\\bart\\pictures\\atividades\\atividade2\\atividade2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A5BFD87-F9A8-464A-A15E-E327C3793B5A}|Atividade2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5BFD87-F9A8-464A-A15E-E327C3793B5A}|Atividade2.csproj|c:\\users\\bart\\pictures\\atividades\\atividade2\\atividade2\\classes\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A5BFD87-F9A8-464A-A15E-E327C3793B5A}|Atividade2.csproj|solutionrelative:classes\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Users\\Bart\\Pictures\\Atividades\\Atividade2\\Atividade2\\Classes\\Carro.cs",
+              "RelativeDocumentMoniker": "Classes\\Carro.cs",
+              "ToolTip": "C:\\Users\\Bart\\Pictures\\Atividades\\Atividade2\\Atividade2\\Classes\\Carro.cs",
+              "RelativeToolTip": "Classes\\Carro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T17:10:06.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bart\\Pictures\\Atividades\\Atividade2\\Atividade2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Bart\\Pictures\\Atividades\\Atividade2\\Atividade2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T17:09:07.735Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

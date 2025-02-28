@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bart\\Pictures\\Visual Studio\\Curso\\SegundoProjeto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{545C22C4-01DD-446E-AB1F-4EDFC6F01021}|SegundoProjeto.csproj|c:\\users\\bart\\pictures\\visual studio\\curso\\segundoprojeto\\classes\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{545C22C4-01DD-446E-AB1F-4EDFC6F01021}|SegundoProjeto.csproj|solutionrelative:classes\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{545C22C4-01DD-446E-AB1F-4EDFC6F01021}|SegundoProjeto.csproj|c:\\users\\bart\\pictures\\visual studio\\curso\\segundoprojeto\\classes\\episodio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{545C22C4-01DD-446E-AB1F-4EDFC6F01021}|SegundoProjeto.csproj|solutionrelative:classes\\episodio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{545C22C4-01DD-446E-AB1F-4EDFC6F01021}|SegundoProjeto.csproj|c:\\users\\bart\\pictures\\visual studio\\curso\\segundoprojeto\\classes\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{545C22C4-01DD-446E-AB1F-4EDFC6F01021}|SegundoProjeto.csproj|solutionrelative:classes\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{545C22C4-01DD-446E-AB1F-4EDFC6F01021}|SegundoProjeto.csproj|c:\\users\\bart\\pictures\\visual studio\\curso\\segundoprojeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{545C22C4-01DD-446E-AB1F-4EDFC6F01021}|SegundoProjeto.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{545C22C4-01DD-446E-AB1F-4EDFC6F01021}|SegundoProjeto.csproj|c:\\users\\bart\\pictures\\visual studio\\curso\\segundoprojeto\\classes\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{545C22C4-01DD-446E-AB1F-4EDFC6F01021}|SegundoProjeto.csproj|solutionrelative:classes\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{545C22C4-01DD-446E-AB1F-4EDFC6F01021}|SegundoProjeto.csproj|c:\\users\\bart\\pictures\\visual studio\\curso\\segundoprojeto\\classes\\banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{545C22C4-01DD-446E-AB1F-4EDFC6F01021}|SegundoProjeto.csproj|solutionrelative:classes\\banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{545C22C4-01DD-446E-AB1F-4EDFC6F01021}|SegundoProjeto.csproj|c:\\users\\bart\\pictures\\visual studio\\curso\\segundoprojeto\\classes\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{545C22C4-01DD-446E-AB1F-4EDFC6F01021}|SegundoProjeto.csproj|solutionrelative:classes\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Episodio.cs",
+              "DocumentMoniker": "C:\\Users\\Bart\\Pictures\\Visual Studio\\Curso\\SegundoProjeto\\Classes\\Episodio.cs",
+              "RelativeDocumentMoniker": "Classes\\Episodio.cs",
+              "ToolTip": "C:\\Users\\Bart\\Pictures\\Visual Studio\\Curso\\SegundoProjeto\\Classes\\Episodio.cs",
+              "RelativeToolTip": "Classes\\Episodio.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwBAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T16:41:03.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Podcast.cs",
+              "DocumentMoniker": "C:\\Users\\Bart\\Pictures\\Visual Studio\\Curso\\SegundoProjeto\\Classes\\Podcast.cs",
+              "RelativeDocumentMoniker": "Classes\\Podcast.cs",
+              "ToolTip": "C:\\Users\\Bart\\Pictures\\Visual Studio\\Curso\\SegundoProjeto\\Classes\\Podcast.cs",
+              "RelativeToolTip": "Classes\\Podcast.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T16:39:34.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Banda.cs",
+              "DocumentMoniker": "C:\\Users\\Bart\\Pictures\\Visual Studio\\Curso\\SegundoProjeto\\Classes\\Banda.cs",
+              "RelativeDocumentMoniker": "Classes\\Banda.cs",
+              "ToolTip": "C:\\Users\\Bart\\Pictures\\Visual Studio\\Curso\\SegundoProjeto\\Classes\\Banda.cs",
+              "RelativeToolTip": "Classes\\Banda.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T16:53:46.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Genero.cs",
+              "DocumentMoniker": "C:\\Users\\Bart\\Pictures\\Visual Studio\\Curso\\SegundoProjeto\\Classes\\Genero.cs",
+              "RelativeDocumentMoniker": "Classes\\Genero.cs",
+              "ToolTip": "C:\\Users\\Bart\\Pictures\\Visual Studio\\Curso\\SegundoProjeto\\Classes\\Genero.cs",
+              "RelativeToolTip": "Classes\\Genero.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T20:12:59.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\Users\\Bart\\Pictures\\Visual Studio\\Curso\\SegundoProjeto\\Classes\\Album.cs",
+              "RelativeDocumentMoniker": "Classes\\Album.cs",
+              "ToolTip": "C:\\Users\\Bart\\Pictures\\Visual Studio\\Curso\\SegundoProjeto\\Classes\\Album.cs",
+              "RelativeToolTip": "Classes\\Album.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T15:52:21.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Musica.cs",
+              "DocumentMoniker": "C:\\Users\\Bart\\Pictures\\Visual Studio\\Curso\\SegundoProjeto\\Classes\\Musica.cs",
+              "RelativeDocumentMoniker": "Classes\\Musica.cs",
+              "ToolTip": "C:\\Users\\Bart\\Pictures\\Visual Studio\\Curso\\SegundoProjeto\\Classes\\Musica.cs",
+              "RelativeToolTip": "Classes\\Musica.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T16:49:35.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bart\\Pictures\\Visual Studio\\Curso\\SegundoProjeto\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Bart\\Pictures\\Visual Studio\\Curso\\SegundoProjeto\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T16:48:31.556Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

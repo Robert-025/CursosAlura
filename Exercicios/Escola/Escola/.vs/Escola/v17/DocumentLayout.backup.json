@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bart\\Pictures\\Visual Studio\\Exercicios\\Escola\\Escola\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30035A2D-EB53-434C-8995-D677777EE641}|Escola.csproj|c:\\users\\bart\\pictures\\visual studio\\exercicios\\escola\\escola\\classes\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30035A2D-EB53-434C-8995-D677777EE641}|Escola.csproj|solutionrelative:classes\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30035A2D-EB53-434C-8995-D677777EE641}|Escola.csproj|c:\\users\\bart\\pictures\\visual studio\\exercicios\\escola\\escola\\classes\\disciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30035A2D-EB53-434C-8995-D677777EE641}|Escola.csproj|solutionrelative:classes\\disciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30035A2D-EB53-434C-8995-D677777EE641}|Escola.csproj|c:\\users\\bart\\pictures\\visual studio\\exercicios\\escola\\escola\\classes\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30035A2D-EB53-434C-8995-D677777EE641}|Escola.csproj|solutionrelative:classes\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30035A2D-EB53-434C-8995-D677777EE641}|Escola.csproj|c:\\users\\bart\\pictures\\visual studio\\exercicios\\escola\\escola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30035A2D-EB53-434C-8995-D677777EE641}|Escola.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "C:\\Users\\Bart\\Pictures\\Visual Studio\\Exercicios\\Escola\\Escola\\Classes\\Professor.cs",
+              "RelativeDocumentMoniker": "Classes\\Professor.cs",
+              "ToolTip": "C:\\Users\\Bart\\Pictures\\Visual Studio\\Exercicios\\Escola\\Escola\\Classes\\Professor.cs",
+              "RelativeToolTip": "Classes\\Professor.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA8wBcAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T18:45:26.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Disciplina.cs",
+              "DocumentMoniker": "C:\\Users\\Bart\\Pictures\\Visual Studio\\Exercicios\\Escola\\Escola\\Classes\\Disciplina.cs",
+              "RelativeDocumentMoniker": "Classes\\Disciplina.cs",
+              "ToolTip": "C:\\Users\\Bart\\Pictures\\Visual Studio\\Exercicios\\Escola\\Escola\\Classes\\Disciplina.cs",
+              "RelativeToolTip": "Classes\\Disciplina.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwBcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T18:45:18.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\Bart\\Pictures\\Visual Studio\\Exercicios\\Escola\\Escola\\Classes\\Aluno.cs",
+              "RelativeDocumentMoniker": "Classes\\Aluno.cs",
+              "ToolTip": "C:\\Users\\Bart\\Pictures\\Visual Studio\\Exercicios\\Escola\\Escola\\Classes\\Aluno.cs*",
+              "RelativeToolTip": "Classes\\Aluno.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T18:45:10.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bart\\Pictures\\Visual Studio\\Exercicios\\Escola\\Escola\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Bart\\Pictures\\Visual Studio\\Exercicios\\Escola\\Escola\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T18:42:46.783Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
