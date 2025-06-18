@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bart\\Pictures\\Visual Studio\\CursosAlura\\Curso\\SegundoProjeto\\SegundoProjeto.csproj": {}
+    "C:\\Users\\Bart\\Pictures\\Visual Studio\\CursosAlura\\Curso\\ScreenSound2\\ScreenSound2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bart\\Pictures\\Visual Studio\\CursosAlura\\Curso\\SegundoProjeto\\SegundoProjeto.csproj": {
+    "C:\\Users\\Bart\\Pictures\\Visual Studio\\CursosAlura\\Curso\\ScreenSound2\\ScreenSound2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bart\\Pictures\\Visual Studio\\CursosAlura\\Curso\\SegundoProjeto\\SegundoProjeto.csproj",
-        "projectName": "SegundoProjeto",
-        "projectPath": "C:\\Users\\Bart\\Pictures\\Visual Studio\\CursosAlura\\Curso\\SegundoProjeto\\SegundoProjeto.csproj",
+        "projectUniqueName": "C:\\Users\\Bart\\Pictures\\Visual Studio\\CursosAlura\\Curso\\ScreenSound2\\ScreenSound2.csproj",
+        "projectName": "ScreenSound2",
+        "projectPath": "C:\\Users\\Bart\\Pictures\\Visual Studio\\CursosAlura\\Curso\\ScreenSound2\\ScreenSound2.csproj",
         "packagesPath": "C:\\Users\\Bart\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bart\\Pictures\\Visual Studio\\CursosAlura\\Curso\\SegundoProjeto\\obj\\",
+        "outputPath": "C:\\Users\\Bart\\Pictures\\Visual Studio\\CursosAlura\\Curso\\ScreenSound2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -64,7 +64,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.Net.Sdk.Compilers.Toolset",
-              "version": "[9.0.204, 9.0.204]"
+              "version": "[9.0.205, 9.0.205]"
             }
           ],
           "frameworkReferences": {
@@ -72,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.205/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

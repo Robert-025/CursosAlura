@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "KfvLAx6Y9P0=",
+  "dgSpecHash": "RKjWWLEtWPU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bart\\Pictures\\Visual Studio\\Curso\\SegundoProjeto\\SegundoProjeto.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Bart\\Pictures\\Visual Studio\\CursosAlura\\Curso\\SegundoProjeto\\SegundoProjeto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bart\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.204\\microsoft.net.sdk.compilers.toolset.9.0.204.nupkg.sha512"
+  ],
   "logs": []
 }

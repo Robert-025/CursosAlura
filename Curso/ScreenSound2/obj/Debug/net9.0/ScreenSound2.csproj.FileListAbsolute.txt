@@ -1,0 +1,15 @@
+C:\Users\Bart\Pictures\Visual Studio\CursosAlura\Curso\ScreenSound2\bin\Debug\net9.0\ScreenSound2.exe
+C:\Users\Bart\Pictures\Visual Studio\CursosAlura\Curso\ScreenSound2\bin\Debug\net9.0\ScreenSound2.deps.json
+C:\Users\Bart\Pictures\Visual Studio\CursosAlura\Curso\ScreenSound2\bin\Debug\net9.0\ScreenSound2.runtimeconfig.json
+C:\Users\Bart\Pictures\Visual Studio\CursosAlura\Curso\ScreenSound2\bin\Debug\net9.0\ScreenSound2.dll
+C:\Users\Bart\Pictures\Visual Studio\CursosAlura\Curso\ScreenSound2\bin\Debug\net9.0\ScreenSound2.pdb
+C:\Users\Bart\Pictures\Visual Studio\CursosAlura\Curso\ScreenSound2\obj\Debug\net9.0\ScreenSound2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\Pictures\Visual Studio\CursosAlura\Curso\ScreenSound2\obj\Debug\net9.0\ScreenSound2.AssemblyInfoInputs.cache
+C:\Users\Bart\Pictures\Visual Studio\CursosAlura\Curso\ScreenSound2\obj\Debug\net9.0\ScreenSound2.AssemblyInfo.cs
+C:\Users\Bart\Pictures\Visual Studio\CursosAlura\Curso\ScreenSound2\obj\Debug\net9.0\ScreenSound2.csproj.CoreCompileInputs.cache
+C:\Users\Bart\Pictures\Visual Studio\CursosAlura\Curso\ScreenSound2\obj\Debug\net9.0\ScreenSound2.sourcelink.json
+C:\Users\Bart\Pictures\Visual Studio\CursosAlura\Curso\ScreenSound2\obj\Debug\net9.0\ScreenSound2.dll
+C:\Users\Bart\Pictures\Visual Studio\CursosAlura\Curso\ScreenSound2\obj\Debug\net9.0\refint\ScreenSound2.dll
+C:\Users\Bart\Pictures\Visual Studio\CursosAlura\Curso\ScreenSound2\obj\Debug\net9.0\ScreenSound2.pdb
+C:\Users\Bart\Pictures\Visual Studio\CursosAlura\Curso\ScreenSound2\obj\Debug\net9.0\ScreenSound2.genruntimeconfig.cache
+C:\Users\Bart\Pictures\Visual Studio\CursosAlura\Curso\ScreenSound2\obj\Debug\net9.0\ref\ScreenSound2.dll
