@@ -1,0 +1,15 @@
+C:\Users\Bart\Pictures\Visual Studio\CursosAlura\Exercicios\CheapShark\bin\Debug\net9.0\CheapShark.exe
+C:\Users\Bart\Pictures\Visual Studio\CursosAlura\Exercicios\CheapShark\bin\Debug\net9.0\CheapShark.deps.json
+C:\Users\Bart\Pictures\Visual Studio\CursosAlura\Exercicios\CheapShark\bin\Debug\net9.0\CheapShark.runtimeconfig.json
+C:\Users\Bart\Pictures\Visual Studio\CursosAlura\Exercicios\CheapShark\bin\Debug\net9.0\CheapShark.dll
+C:\Users\Bart\Pictures\Visual Studio\CursosAlura\Exercicios\CheapShark\bin\Debug\net9.0\CheapShark.pdb
+C:\Users\Bart\Pictures\Visual Studio\CursosAlura\Exercicios\CheapShark\obj\Debug\net9.0\CheapShark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\Pictures\Visual Studio\CursosAlura\Exercicios\CheapShark\obj\Debug\net9.0\CheapShark.AssemblyInfoInputs.cache
+C:\Users\Bart\Pictures\Visual Studio\CursosAlura\Exercicios\CheapShark\obj\Debug\net9.0\CheapShark.AssemblyInfo.cs
+C:\Users\Bart\Pictures\Visual Studio\CursosAlura\Exercicios\CheapShark\obj\Debug\net9.0\CheapShark.csproj.CoreCompileInputs.cache
+C:\Users\Bart\Pictures\Visual Studio\CursosAlura\Exercicios\CheapShark\obj\Debug\net9.0\CheapShark.sourcelink.json
+C:\Users\Bart\Pictures\Visual Studio\CursosAlura\Exercicios\CheapShark\obj\Debug\net9.0\CheapShark.dll
+C:\Users\Bart\Pictures\Visual Studio\CursosAlura\Exercicios\CheapShark\obj\Debug\net9.0\refint\CheapShark.dll
+C:\Users\Bart\Pictures\Visual Studio\CursosAlura\Exercicios\CheapShark\obj\Debug\net9.0\CheapShark.pdb
+C:\Users\Bart\Pictures\Visual Studio\CursosAlura\Exercicios\CheapShark\obj\Debug\net9.0\CheapShark.genruntimeconfig.cache
+C:\Users\Bart\Pictures\Visual Studio\CursosAlura\Exercicios\CheapShark\obj\Debug\net9.0\ref\CheapShark.dll

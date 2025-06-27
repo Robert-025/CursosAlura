@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Md5rd7ZThIQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bart\\Pictures\\Visual Studio\\CursosAlura\\Exercicios\\CheapShark\\CheapShark.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bart\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.205\\microsoft.net.sdk.compilers.toolset.9.0.205.nupkg.sha512"
+  ],
+  "logs": []
+}

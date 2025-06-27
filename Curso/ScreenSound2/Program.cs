@@ -1,4 +1,7 @@
 ﻿// Gerencia um recurso que está dentro das chaves, liberando o recurso quando a chave fecha
+using System.Text.Json;
+using ScreenSound2.Modelos;
+
 using (HttpClient client = new HttpClient()) 
 {
 	try
@@ -9,6 +12,10 @@ using (HttpClient client = new HttpClient())
         string response = await client.GetStringAsync("https://guilhermeonrails.github.io/api-csharp-songs/songs.json");
 
         Console.WriteLine(response);
+
+        //Transforma o JSON em um objeto que pode ser manipulado na linguagem. Chamamos de desserialização.
+        var musicas = JsonSerializer.Deserialize<List<Musica>>(response);
+
     }
 	catch (Exception ex)
 	{
