@@ -1,0 +1,15 @@
+C:\Users\Bart\Pictures\Visual Studio\CursosAlura\Exercicios\GameOfThronesAPI\obj\Debug\net9.0\GameOfThronesAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\Pictures\Visual Studio\CursosAlura\Exercicios\GameOfThronesAPI\obj\Debug\net9.0\GameOfThronesAPI.AssemblyInfoInputs.cache
+C:\Users\Bart\Pictures\Visual Studio\CursosAlura\Exercicios\GameOfThronesAPI\obj\Debug\net9.0\GameOfThronesAPI.AssemblyInfo.cs
+C:\Users\Bart\Pictures\Visual Studio\CursosAlura\Exercicios\GameOfThronesAPI\obj\Debug\net9.0\GameOfThronesAPI.csproj.CoreCompileInputs.cache
+C:\Users\Bart\Pictures\Visual Studio\CursosAlura\Exercicios\GameOfThronesAPI\obj\Debug\net9.0\GameOfThronesAPI.sourcelink.json
+C:\Users\Bart\Pictures\Visual Studio\CursosAlura\Exercicios\GameOfThronesAPI\bin\Debug\net9.0\GameOfThronesAPI.exe
+C:\Users\Bart\Pictures\Visual Studio\CursosAlura\Exercicios\GameOfThronesAPI\bin\Debug\net9.0\GameOfThronesAPI.deps.json
+C:\Users\Bart\Pictures\Visual Studio\CursosAlura\Exercicios\GameOfThronesAPI\bin\Debug\net9.0\GameOfThronesAPI.runtimeconfig.json
+C:\Users\Bart\Pictures\Visual Studio\CursosAlura\Exercicios\GameOfThronesAPI\bin\Debug\net9.0\GameOfThronesAPI.dll
+C:\Users\Bart\Pictures\Visual Studio\CursosAlura\Exercicios\GameOfThronesAPI\bin\Debug\net9.0\GameOfThronesAPI.pdb
+C:\Users\Bart\Pictures\Visual Studio\CursosAlura\Exercicios\GameOfThronesAPI\obj\Debug\net9.0\GameOfThronesAPI.dll
+C:\Users\Bart\Pictures\Visual Studio\CursosAlura\Exercicios\GameOfThronesAPI\obj\Debug\net9.0\refint\GameOfThronesAPI.dll
+C:\Users\Bart\Pictures\Visual Studio\CursosAlura\Exercicios\GameOfThronesAPI\obj\Debug\net9.0\GameOfThronesAPI.pdb
+C:\Users\Bart\Pictures\Visual Studio\CursosAlura\Exercicios\GameOfThronesAPI\obj\Debug\net9.0\GameOfThronesAPI.genruntimeconfig.cache
+C:\Users\Bart\Pictures\Visual Studio\CursosAlura\Exercicios\GameOfThronesAPI\obj\Debug\net9.0\ref\GameOfThronesAPI.dll
