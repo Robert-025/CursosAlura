@@ -48,5 +48,71 @@ namespace bytebank_ATENDIMENTO.bytebank.Util
             // Define o novo valor de _itens
             _itens = novoArray;
         }
+
+        public void Remover(ContaCorrente conta)
+        {
+            //Item que recebe o indice que vai ser removido 
+            int indiceItem = -1;
+
+            //Usa como parametro o _proximaPosicao, que é o tamanho do array no momento que for remover
+            for (int i = 0; i < _proximaPosicao; i++)
+            {
+                ContaCorrente contaAtual = _itens[i];
+                if (contaAtual == conta)
+                {
+                    indiceItem = i;
+                    break;
+                }
+            }
+
+            //Enquanto o indice i for menor que o tamanho do array -1
+            for (int i = indiceItem; i < _proximaPosicao-1; i++)
+            {
+                //Substitui o item encontrado pelo proximo do array
+                _itens[i] = _itens[i + 1];
+            }
+            _proximaPosicao--;
+            _itens[_proximaPosicao] = null;
+        }
+
+        public void ExibirLista()
+        {
+            for (int i = 0; i < _itens.Length; i++)
+            {
+                if (_itens[i] != null)
+                {
+                    var conta = _itens[i];
+                    Console.WriteLine($"Indice[{i}] = Conta: {conta.Conta} - Nº da agencia: {conta.Numero_agencia}");
+                }
+            }
+        }
+
+        public ContaCorrente RecuperarContaDoIndice(int indice)
+        {
+            //Valida se o valor recebido é valido
+            if (indice < 0 || indice >= _proximaPosicao)
+            {
+                //Entra se for inválido e grea uma exceção
+                throw new ArgumentOutOfRangeException(nameof(indice));
+            }
+
+            //Retorna do array _itens que contém as contas o valor que está no índice indicado
+            return _itens[indice];
+        }
+
+        public int Tamanho { 
+            get
+            {
+                return _proximaPosicao;
+            }
+        }
+
+        public ContaCorrente this[int indice]
+        {
+            get
+            {
+                return RecuperarContaDoIndice(indice);
+            }
+        }
     }
 }

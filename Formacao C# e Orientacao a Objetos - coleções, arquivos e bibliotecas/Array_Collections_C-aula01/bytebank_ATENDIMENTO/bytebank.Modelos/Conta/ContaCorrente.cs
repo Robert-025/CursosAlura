@@ -50,15 +50,16 @@
 			}
 			set
 			{
-				if (!(value < 0.0))
+				if (value < 0.0)
+				{
+					return;
+				}
+				else
 				{
 					saldo = value;
 				}
 			}
 		}
-
-		public static int TotalDeContasCriadas { get; set; }
-
 		public bool Sacar(double valor)
 		{
 			if (saldo < valor)
@@ -100,19 +101,21 @@
 		{
 			Numero_agencia = numero_agencia;
 			Conta = conta;
+			Titular = new Cliente();
 			TotalDeContasCriadas += 1;
 
 		}
+		public static int TotalDeContasCriadas { get; set; }
 
-		public override string ToString()
-		{
+		//public override string ToString()
+		//{
 
-			return $" === DADOS DA CONTA === \n" +
-				   $"Número da Conta : {this.Conta} \n" +
-				   $"Titular da Conta: {this.Titular.Nome} \n" +
-				   $"CPF do Titular  : {this.Titular.Cpf} \n" +
-				   $"Profissão do Titular: { this.Titular.Profissao}";
-		}
+		//	return $" === DADOS DA CONTA === \n" +
+		//		   $"Número da Conta : {this.Conta} \n" +
+		//		   $"Titular da Conta: {this.Titular.Nome} \n" +
+		//		   $"CPF do Titular  : {this.Titular.Cpf} \n" +
+		//		   $"Profissão do Titular: {this.Titular.Profissao}";
+		//}
 	}
 
 }
