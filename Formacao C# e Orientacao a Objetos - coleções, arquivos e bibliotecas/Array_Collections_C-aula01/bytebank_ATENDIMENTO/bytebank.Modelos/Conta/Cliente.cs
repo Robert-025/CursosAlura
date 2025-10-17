@@ -18,6 +18,8 @@
                 {
                     Console.WriteLine("Nome do titular precisa ter pelo menos 3 caracteres.");
                 }
+                //Recebe o valor do nome que for informado no cadastro da conta
+                _nome = value;
             }
 
         }
